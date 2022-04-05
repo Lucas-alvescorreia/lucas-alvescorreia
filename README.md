@@ -1,9 +1,5 @@
 ### Olá! Eu sou o Lucas Alves 👋
 
-- 🔭 Me preparando para o mercado de trabalho
-- 🌱 Estudando Javascript 
-- 😄 Pronouns: ele/dele
-
 <div align="center">
   <a href="https://github.com/Lucas-alvescorreia">
   <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=lucas-alvescorreia&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
